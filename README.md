@@ -1,2 +1,2 @@
-# Kubernetes-Practice
-Collection of config files for kubernetes - deployments, services etc.
+# Docker and Kubernetes(K8s)
+Collection of config files for my projects  - dockerFile, deployments, services, ingress,secrets ...
